@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Carlos
+## Hey, hej, Olá, cześć! :)
 
 I work across **Business Intelligence, AI-driven insights, and automation**, turning fragmented data into clear, scalable decision systems.  
 My focus is building analytical solutions that reduce manual work, improve reporting quality, and enable more predictive, data-driven decisions.
