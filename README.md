@@ -6,15 +6,14 @@ My focus is building analytical solutions that reduce manual work, improve repor
 ---
 
 ### 🔧 What I Do
-- AI-augmented analytics & automated insights  
-- BI architecture, data modeling, and KPI frameworks  
-- Power BI, SQL, DAX, Python (growing expertise)  
-- Automating reporting workflows and analytical processes  
+- Driving Decision Intelligence through AI-augmented analytics.
+- Architecting Modern BI solutions, data models, and performance metrics.
+- Automating reporting lifecycles to accelerate business insights.
 
 ---
 
 ### 📌 Current Focus
-- AI-enhanced dashboards  
+- AI-enhanced data insights  
 - Prototyping analytical agents & copilots  
 - Modern automation tools  
 - Improving end-to-end BI efficiency  
