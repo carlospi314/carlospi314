@@ -1,7 +1,7 @@
 ## Hey, hej, Olá, cześć! :)
 
-I work across **Business Intelligence, AI-driven insights, and automation**, turning fragmented data into clear, scalable decision systems.  
-My focus is building analytical solutions that reduce manual work, improve reporting quality, and enable more predictive, data-driven decisions.
+I work in the fields of automation, AI-driven insights, and business intelligence, transforming disparate data into comprehensible, scalable decision systems.
+Building analytical solutions that lessen manual labor, enhance reporting quality, and facilitate more data-driven, predictive decision-making is my main goal.
 
 ---
 
