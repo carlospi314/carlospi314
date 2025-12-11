@@ -30,5 +30,7 @@ Building analytical solutions that lessen manual labor, enhance reporting qualit
 
 ### 🔗 Connect
 **LinkedIn:** linkedin.com/in/carlospi314
+**ko-fi:** ko-fi.com/carlospi14
+**substack:** https://substack.com/@carlospi1
 
 > _“Clarity is engineered.”_
