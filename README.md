@@ -16,7 +16,7 @@ My focus is building analytical solutions that reduce manual work, improve repor
 ### 📌 Current Focus
 - AI-enhanced dashboards  
 - Prototyping analytical agents & copilots  
-- Forecasting + modern automation tools  
+- Modern automation tools  
 - Improving end-to-end BI efficiency  
 
 ---
