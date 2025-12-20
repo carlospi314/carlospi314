@@ -1,35 +1,34 @@
 ## Hey, hej, Olá, cześć! :)
 
-I play around with AI-Driven data analytics & BI solutions, and business strategy to help companies turn raw data into smart decisions. I also work on automation and building cool, intelligent stuff.
+I design analytics and BI systems that turn data into reliable, automated decision support.
+
+My work sits at the intersection of **analytics engineering, modern business intelligence, and AI-enabled automation** — focusing on data models, KPIs, and workflows that improve data quality, reduce manual effort, and accelerate decision-making.
 
 ---
 
-### 🔧 What I Do
-- Driving Decision Intelligence through AI-augmented analytics.
-- Architecting Modern BI solutions, data models, and performance metrics.
-- Automating reporting lifecycles to accelerate business insights.
+### 🔧 What I Work On
+- Analytics engineering and decision-support data models  
+- Modern BI architecture and KPI systems  
+- AI-augmented analytics and automation  
+- End-to-end reporting reliability and scalability  
 
 ---
 
 ### 📌 Current Focus
-- AI-enhanced data insights  
-- Prototyping analytical agents & copilots  
-- Modern automation tools  
-- Improving end-to-end BI efficiency  
+- Decision intelligence patterns for analytics teams  
+- AI-assisted insight generation (agents, copilots)  
+- Data quality, controls, and trust at scale  
 
 ---
 
-### 💬 Ask Me About
-- Structuring data for analytics  
-- Embedding AI into BI workflows  
-- Automating repetitive reporting  
-- Building clear, scalable KPI systems  
+### 💬 Topics I Care About
+- Designing analytics for decisions (not dashboards)  
+- Embedding AI into BI workflows pragmatically  
+- Automating reporting and validation pipelines  
 
 ---
 
-### 🔗 Connect
-- **LinkedIn:** linkedin.com/in/carlospi314
-- **ko-fi:** ko-fi.com/carlospi14
-- **substack:** https://substack.com/@carlospi1
+🔗 **LinkedIn:** https://linkedin.com/in/carlospi314  
+✍️ **Writing:** https://substack.com/@carlospi1  
 
-> _“Clarity is engineered.”_
+> *Clarity is engineered.*
